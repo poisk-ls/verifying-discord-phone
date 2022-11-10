@@ -15,7 +15,8 @@ PLEASE NOTE
 You can use the Tool, modify and it and use it for private purposes. You are not Allowed to sell the orginal src or a modified version.\
 (If u are poor, you should buy EV from someone and make thwm Fully Verified using the tool, then sell the FV ones but don't sell this tool pls)
 
-
+### ctto & thanks to:
+**https://github.com/FuckingToasters/discord-phone-verifier**
 
 
 **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7D628&center=false&width=435&lines=...enjoy!!)](https://git.io/typing-svg)**
